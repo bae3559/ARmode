@@ -1,0 +1,59 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jinny\\Desktop\\animation\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jinny\\Desktop\\animation\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "29,46,34,40,4,21,8,13,55,79,60,67,92,89,90,93,91,-1,87,88,-1",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,-1,2,2,-1",
+                        "startOffsets": "1619,2213,1750,1953,166,1135,326,556,2584,3594,2708,2971,4191,4051,4108,4233,4149,-1,3937,3994,-1",
+                        "endLines": "33,53,38,44,7,28,12,20,58,86,65,77,92,89,90,93,91,-1,87,88,-1",
+                        "endColumns": "11,11,11,11,11,11,11,11,11,11,11,11,41,56,40,41,41,-1,56,56,-1",
+                        "endOffsets": "1747,2580,1949,2209,323,1616,553,1132,2704,3934,2967,3590,4230,4105,4146,4272,4188,-1,3991,4048,-1"
+                    },
+                    "to": {
+                        "startLines": "5,10,18,23,28,32,40,45,53,57,65,71,82,83,84,85,86,87,88,89,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,332,704,908,1169,1331,1817,2049,2630,2755,3100,3364,3988,4032,4091,4134,4178,4222,4271,4330,4389",
+                        "endLines": "9,17,22,27,31,39,44,52,56,64,70,81,82,83,84,85,86,87,88,89,90",
+                        "endColumns": "11,11,11,11,11,11,11,11,11,11,11,11,43,58,42,43,43,48,58,58,67",
+                        "endOffsets": "327,699,903,1164,1326,1812,2044,2625,2750,3095,3359,3983,4027,4086,4129,4173,4217,4266,4325,4384,4452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jinny\\Desktop\\animation\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jinny\\Desktop\\animation\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "91,93,96",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4457,4557,4695",
+                        "endLines": "92,95,99",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "4552,4690,4917"
+                    }
+                }
+            ]
+        }
+    ]
+}
